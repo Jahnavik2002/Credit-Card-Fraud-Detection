@@ -1,8 +1,3 @@
-# Credit-Card-Fraud-Detection
-Here's a template for a README file for a Credit Card Fraud Detection project. Let me know if you need specific details from the notebook file, and I can access it for you to provide accurate content.
-
----
-
 # Credit Card Fraud Detection
 
 ## Project Overview
